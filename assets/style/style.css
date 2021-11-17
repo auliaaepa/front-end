@@ -1,0 +1,21 @@
+.navbar-brand {
+    color: #2fdfff!important;
+}
+
+.flex-row .rounded-circle {
+    width: 28px; 
+    height: 28px;
+}
+
+.progress {
+    height: 20px!important;
+}
+
+.col-4 .rounded-circle {
+    width: 36px; 
+    height: 36px;
+}
+
+.flex-row .rounded-circle:hover {
+    background-color: #2fdfff!important;
+}
